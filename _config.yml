@@ -19,19 +19,17 @@
 # in the templates via {{ site.myvariable }}.
 
 title: 조국 사태에 대한 기록
-email: krtoday365@gmail.com
+#email: krtoday365@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  조국 사태가 어떻게 흘러가는지 기록할 필요가 있을 듯 하다. 시간이 지나도
-  그 경과는 기억을 할수 있게 기록해 두어야만 한다.
-  가능한한 자세히, 있던 일들을 빠짐없이. 기억과 감정에 의존하는것이 아닌
-  기록에 의존하여 냉정을 유지할 수 있어야 한다.
+  조국 사태가 어떻게 흘러가는지 기록할 필요 있다. 시간이 지나도 그 경과는 기억 할수 있게 기록해 두어야만 한다.
+  가능한한 자세히, 있던 일들을 빠짐없이. 기억과 감정에 의존하는것이 아닌 기록에 의존하여 냉정을 유지할 수 있어야 한다.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
-github_username:  krtoday
+#github_username:  krtoday
 
 # Build settings
-theme: minima
+#theme: minima
 #plugins:
 #  - jekyll-feed
 
