@@ -206,6 +206,7 @@
         * [여야 오늘 오후 잇따라 회동...공수처법·선거법 협상](https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=100&oid=052&aid=0001357203)
         * [공수처 없어서 정경심 구속 가능”… 공수처 반대 명분 키우는 보수야권](https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=100&oid=469&aid=0000433793)
         * ['공수처 이달 우선 처리' 사실상 무산…야3당 "선거법 먼저"](https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=100&oid=437&aid=0000222591)
+        * [대검, 경찰이 수사한 모든 사건을 검찰이 검토해야 하고, 경찰청장과 지방경찰청장은 행정경찰에 불과해 수사 업무에 관여해서는 안 된다](https://n.news.naver.com/article/016/0001593974?lfrom=facebook)
     * 29일
         * 검찰개혁 법안 본회의 부의 예정
 * 2019 11월
