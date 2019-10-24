@@ -18,7 +18,11 @@
       * [한국당, 폴리페서 방지법 발의](http://www.ilyoseoul.co.kr/news/articleView.html?idxno=327496)
       * [한국당 “조국 법무장관 지명은 검찰 도구화”](https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=100&oid=469&aid=0000412044)
     * 9일([1540건](https://search.naver.com/search.naver?where=news&query=조국&sm=tab_opt&sort=0&photo=0&field=0&reporter_article=&pd=3&ds=2019.08.09&de=2019.08.09&docid=&nso=so%3Ar%2Cp%3Afrom20190809to20190809%2Ca%3Aall&mynews=0&refresh_start=0&related=0)
-      * 조국 법무부 장관 지명
+      * 조국 법무부 장관 지명 - "서해맹산"
+      * [야당, 54억 재산ㆍ자녀 외고 진학 등 공세 예고](https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=102&oid=469&aid=0000412351)
+      * [조국 "법무부 장관 되면 검찰개혁 임무 완수하겠다"](http://www.mhj21.com/123396)
+      * [나경원 "조국 법무장관 강행, 야당에 전쟁 선포한 개각"](https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=100&oid=003&aid=0009392583)
+      * ['조국 온다' 뒤숭숭한 검찰…"우릴 괴물이라 했는데"](https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=102&oid=003&aid=0009392864)
     * 14일 : 인사청문요청안 국회 제출
     * 16일 : 사모펀드, 웅동 위장소송, 동생 부부 위장이혼, 부동산 위장 거래, 위장전임, 장남 입영연기, 종합소득세 늑장 납부 의혹 제기
     * 19일 : 딸 낙제후 장학금 수령 논란 제기 
