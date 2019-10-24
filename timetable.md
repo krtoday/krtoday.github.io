@@ -157,22 +157,42 @@
     * 3일 : 정경심 교수 검찰 1차 소환
     * 8일 : 정경심 교수 검찰 3차 소환
     * 13일 : 정경심 교수 검찰 4차 소환
+        * [이인영 “이달 말 공수처 법 처리 가능… 개혁 마침표”](https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=100&oid=005&aid=0001248413)
     * 14일 : 정경심 교수 검찰 5차 소환
-    * 16일 : 정경심 교수 검찰 6차 소환
-    * 18일 : 정경심 교수 사문서위조혐의에 대한 1차 공판준비기일
+        * ["이제 문 대통령 차례"라는 황교안 "공수처법, 다음 국회로 넘기자"](https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=100&oid=047&aid=0002243412)
+    * 15일 
+        * [나경원 "장기집권 사령부 '공수처' 설치 절대 불가"](https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=100&oid=014&aid=0004309910)
+    * 16일 
+        * 정경심 교수 검찰 6차 소환
+        * [여야 '검찰개혁' 첫 협상…공수처 이견만 확인](https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=161&oid=422&aid=0000396987)
+    * 17일
+        * ["공수처 막는 황교안 보면서 '노회찬 에프킬라'가 떠올랐다"](https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=100&oid=047&aid=0002243707)
+    * 18일 
+        * 정경심 교수 사문서위조혐의에 대한 1차 공판준비기일
+        * [윤석열, 인사말부터 ‘검찰 개혁’…”공수처 반대 안 해”](https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=102&oid=056&aid=0010754275)
+        * [나경원 "공수처 절대 불가..'좌파 법피아' 천지될 것"](https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=100&oid=014&aid=0004312049)
+    * 19일
+        * [황교안 "정권에 불리한 수사 중단시키는 게 공수처법"](https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=100&oid=022&aid=0003406902)
+        * [나경원 "공수처·선거제 악법은 文 장기집권 노린 독재법"](https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=100&oid=003&aid=0009514046)
     * 20일
         * 군인권센터, 황교안, 2017 촛불집회 때 계엄령 논의 개입 정황     
+        * [與, 공수처법 분리해 우선 처리 추진…野 “끝까지 저지”](https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=100&oid=056&aid=0010754949)
     * 21일 
         * [황교안 "계엄령?" '계'자도 못들었다](https://www.edaily.co.kr/news/read?newsId=03614566622655544&mediaCodeNo=257) 추미애 의원도 "계엄령"을 들었는데?
               
         * 정경심 교수 구속영장 청구
+        * [공수처 설치, 찬성 51% vs 반대 41% -리얼미터](https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=100&oid=001&aid=0011157492)
+        * [한국당, '공수처 절대불가' 선언... "바른미래당 안도 못받아"](https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=100&oid=047&aid=0002244188)
     * 22일
-        PD수첩 검사범죄 1부 '스포서 검사' 방송
+        * PD수첩 검사범죄 1부 '스포서 검사' 방송
+        * [文대통령 “공수처법 조속 처리 당부”… 한국당 ‘×’표시로 항의](https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=100&oid=020&aid=0003248623)
     * 23일 
         * 정경심 교수 구속영장 심사
         * [한국당, 조국TF 에 표창장](https://news.joins.com/article/23611403)
     * 23일 
         * 검찰, WFM 주식을 차명으로 샀다는 날(이 특정되나?), 조국 교수의 계좌에서 정경심 교수의 계좌로 이체된 정황이 발견되었다고 언론에 흘림.
+        * [바른·정의·평화 "공수처법 '先처리' 불가…선거개혁 먼저"](https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=100&oid=002&aid=0002108124)
+        * [민주당, 공수처 협상 ‘최후통첩’…한국당 “선거법 합의 땐 논의”](https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=100&oid=028&aid=0002472296)
     * 24일    
         * 정경심 교수 구속
         * 송경호 서울중앙지법 영장전담 부장판사: "범죄혐의 상당 부분이 소명되고, 현재까지의 수사경과에 비추어 증거인멸 염려가 있다"
@@ -183,5 +203,15 @@
         * [검찰, 위조 아니고 "자동날인"이다](https://news.v.daum.net/v/20191024154602502?f=m)
         * [검찰, 유시민 이사장 수사 착수](https://www.nocutnews.co.kr/news/5232819)
         * [조국, 이르면 내주 피의자로 소환](https://news.naver.com/main/read.nhn?mode=LSD&mid=shm&sid1=102&oid=022&aid=0003408381)
+        * [여야 오늘 오후 잇따라 회동...공수처법·선거법 협상](https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=100&oid=052&aid=0001357203)
+        * [공수처 없어서 정경심 구속 가능”… 공수처 반대 명분 키우는 보수야권](https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=100&oid=469&aid=0000433793)
+        * ['공수처 이달 우선 처리' 사실상 무산…야3당 "선거법 먼저"](https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=100&oid=437&aid=0000222591)
+    * 29일
+        * 검찰개혁 법안 본회의 부의 예정
+* 2019 11월
+    * 27일
+        * 선거법 본회의 부의 예정
+
+
 
               
