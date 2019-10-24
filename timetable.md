@@ -166,6 +166,8 @@
         * [황교안 "계엄령?" '계'자도 못들었다](https://www.edaily.co.kr/news/read?newsId=03614566622655544&mediaCodeNo=257) 추미애 의원도 "계엄령"을 들었는데?
               
         * 정경심 교수 구속영장 청구
+    * 22일
+        PD수첩 검사범죄 1부 '스포서 검사' 방송
     * 23일 
         * 정경심 교수 구속영장 심사
         * [한국당, 조국TF 에 표창장](https://news.joins.com/article/23611403)
@@ -179,4 +181,7 @@
         * [나경원 '계엄령 문건은 민주당의 정치공작'](https://news.v.daum.net/v/20191024114802308)
         * 군인권센터, 윤석열 직인찍힌 불기소 통지서 공개
         * [검찰, 위조 아니고 "자동날인"이다](https://news.v.daum.net/v/20191024154602502?f=m)
+        * [검찰, 유시민 이사장 수사 착수](https://www.nocutnews.co.kr/news/5232819)
+        * [조국, 이르면 내주 피의자로 소환](https://news.naver.com/main/read.nhn?mode=LSD&mid=shm&sid1=102&oid=022&aid=0003408381)
+
               
