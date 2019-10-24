@@ -12,7 +12,13 @@
   * 2017.10.18 : 아들 아주대 로스쿨 지원 마감(10.10 ~10.18)
   * 2018.1학기 : 아들 연세대 일반대학원 정치외교학 석사과정 합격
   * 2019.8월
-    * 9일 : 조국 법무부 장관 지명
+    * 8일([기사 564건](https://search.naver.com/search.naver?&where=news&query=%EC%A1%B0%EA%B5%AD&sm=tab_pge&sort=0&photo=0&field=0&reporter_article=&pd=3&ds=2019.08.08&de=2019.08.08&docid=&nso=so:r,p:from20190808to20190808,a:all&mynews=0&cluster_rank=338&start=161&refresh_start=0)) 
+      * [서울대 가장 부끄러운 동문 1위](https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=100&oid=025&aid=0002928290)
+      * [사법시험 존치를 위한 고시생 모임, 명예훼손과 업무방해죄 혐의로 고발](https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=102&oid=079&aid=0003257590)
+      * [한국당, 폴리페서 방지법 발의](http://www.ilyoseoul.co.kr/news/articleView.html?idxno=327496)
+      * [한국당 “조국 법무장관 지명은 검찰 도구화”](https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=100&oid=469&aid=0000412044)
+    * 9일([1540건](https://search.naver.com/search.naver?where=news&query=조국&sm=tab_opt&sort=0&photo=0&field=0&reporter_article=&pd=3&ds=2019.08.09&de=2019.08.09&docid=&nso=so%3Ar%2Cp%3Afrom20190809to20190809%2Ca%3Aall&mynews=0&refresh_start=0&related=0)
+      * 조국 법무부 장관 지명
     * 14일 : 인사청문요청안 국회 제출
     * 16일 : 사모펀드, 웅동 위장소송, 동생 부부 위장이혼, 부동산 위장 거래, 위장전임, 장남 입영연기, 종합소득세 늑장 납부 의혹 제기
     * 19일 : 딸 낙제후 장학금 수령 논란 제기 
