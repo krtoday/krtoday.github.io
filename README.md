@@ -1,4 +1,4 @@
-# [조국 사태 기록](krtoday.github.io)
+# [조국 사태 기록](https://krtoday.github.io)
 
 조국 사태를 기록/공유하기 위해 시작한 저장소입니다.
 
