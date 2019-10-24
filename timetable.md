@@ -34,6 +34,8 @@
             * 김태우 전 청와대 특별감찰반원 폭로에 따른 민간인 사찰 의혹
             * 국가보안법 위반 수감 전력
             * 청와대 회전문 인사 논란
+    * 11일([269건](https://search.naver.com/search.naver?where=news&query=%EC%A1%B0%EA%B5%AD&sm=tab_opt&sort=0&photo=0&field=0&reporter_article=&pd=3&ds=2019.08.11&de=2019.08.11&docid=&nso=so%3Ar%2Cp%3Afrom20190811to20190811%2Ca%3Aall&mynews=0&refresh_start=0&related=0))
+        * [이은재 “조국, 표절 의혹 논문 25건”…조국 측 “이미 무혐의”](https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=100&oid=056&aid=0010731311)
         * 
     * 14일 : 인사청문요청안 국회 제출
     * 16일 : 사모펀드, 웅동 위장소송, 동생 부부 위장이혼, 부동산 위장 거래, 위장전임, 장남 입영연기, 종합소득세 늑장 납부 의혹 제기
@@ -144,5 +146,6 @@
     * 정경심 교수 구속
     * 송경호 서울중앙지법 영장전담 부장판사: "범죄혐의 상당 부분이 소명되고, 현재까지의 수사경과에 비추어 증거인멸 염려가 있다"
     * [정경심 58일만에 구속… 이제 조국 소환 남았다"](http:// news.chosun.com/site/data/html_dir/2019/10/24/2019102400029.html) 는 제목의 조선일보 대문 기사
+    * [표창원 의원 불출마 선언](https://www.facebook.com/cwpyo/posts/3366885406685508)
 
 
