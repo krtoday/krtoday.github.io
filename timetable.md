@@ -201,12 +201,15 @@
         * [나경원 '계엄령 문건은 민주당의 정치공작'](https://news.v.daum.net/v/20191024114802308)
         * 군인권센터, 윤석열 직인찍힌 불기소 통지서 공개
         * [검찰, 위조 아니고 "자동날인"이다](https://news.v.daum.net/v/20191024154602502?f=m)
-        * [검찰, 유시민 이사장 수사 착수](https://www.nocutnews.co.kr/news/5232819)
+        * [검찰, '알릴레오' 유시민 허위사실유포 혐의 수사착수](https://news.naver.com/main/read.nhn?mode=LPOD&mid=sec&oid=001&aid=0011167149&isYeonhapFlash=Y&rc=N)
         * [조국, 이르면 내주 피의자로 소환](https://news.naver.com/main/read.nhn?mode=LSD&mid=shm&sid1=102&oid=022&aid=0003408381)
         * [여야 오늘 오후 잇따라 회동...공수처법·선거법 협상](https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=100&oid=052&aid=0001357203)
         * [공수처 없어서 정경심 구속 가능”… 공수처 반대 명분 키우는 보수야권](https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=100&oid=469&aid=0000433793)
         * ['공수처 이달 우선 처리' 사실상 무산…야3당 "선거법 먼저"](https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=100&oid=437&aid=0000222591)
         * [대검, 경찰이 수사한 모든 사건을 검찰이 검토해야 하고, 경찰청장과 지방경찰청장은 행정경찰에 불과해 수사 업무에 관여해서는 안 된다](https://n.news.naver.com/article/016/0001593974?lfrom=facebook)
+    * 25일
+        * [조국 5촌조카 측 "덧씌웠단 정경심쪽 주장..너무 화나"](https://news.v.daum.net/v/20191025160802684) - 검찰이 시키드나?
+        * [정경심 교수, 구속 후 첫 소환…조국 '연결고리' 조사할 듯](https://news.naver.com/main/read.nhn?mode=LPOD&mid=sec&oid=001&aid=0011168336&isYeonhapFlash=Y&rc=N) - 뇌물수수 혐의 첫 언급
     * 29일
         * 검찰개혁 법안 본회의 부의 예정
 * 2019 11월
