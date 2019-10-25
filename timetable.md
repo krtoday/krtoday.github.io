@@ -2,15 +2,8 @@
 관련 모든 사건의 시간순 나열
 ==========================
  
-* 2011.3~2014.3 : 아들 한영외고 재학
-* 2013 : 아들 동양대 인문학강좌 종장 상장
-* 2013.7.15 : 아들 서울대 인권법센터 인턴 예정 증명서 발급
-* 2014.9 ~ : 아들 조지워싱턴대
-* 2017.5.11 : 조국 민정수석 임명 
-* 2017.2학기 : 아들 연세대대학원 석방사 통합과정 지원, 탈락
-* 2017.10.16 : 아들 서울대 인권법센터 활동증명서
-* 2017.10.18 : 아들 아주대 로스쿨 지원 마감(10.10 ~10.18)
-* 2018.1학기 : 아들 연세대 일반대학원 정치외교학 석사과정 합격
+{% include_relative 2018.md %}
+
 * 2019.8월
     * 8일([기사 564건](https://search.naver.com/search.naver?&where=news&query=%EC%A1%B0%EA%B5%AD&sm=tab_pge&sort=0&photo=0&field=0&reporter_article=&pd=3&ds=2019.08.08&de=2019.08.08&docid=&nso=so:r,p:from20190808to20190808,a:all&mynews=0&cluster_rank=338&start=161&refresh_start=0)) 
         * [서울대 가장 부끄러운 동문 1위](https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=100&oid=025&aid=0002928290)
